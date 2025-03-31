@@ -1,1 +1,2 @@
-# omniderectional_mobile_robot_software_and_hardware
+# 独立4輪ステアリング機構を用いた全方向移動ロボットの車輪制御
+
