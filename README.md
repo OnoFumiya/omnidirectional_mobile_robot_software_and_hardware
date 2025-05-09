@@ -27,5 +27,4 @@
 # 課題の解決
   ## ハードウェア
   ## ソフトウェア
-
-\\ <video src="動画の URL" controls="true"></video>
+<div><video controls src="./sobit_pro_omni_wheel.mp4" muted="false"></video></div>
